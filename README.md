@@ -13,5 +13,4 @@ This project proves my skill of using both front-end as well as back-end develop
 
 [Pie Graph](pie_cart_example.png)
 [Bubble Plot](bubble_plot_exaple.png)
-[Bacteria Cultures](http://robdunnlab.com/wp-content/uploads/971.jpg)
 
