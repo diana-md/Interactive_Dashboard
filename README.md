@@ -9,8 +9,8 @@ This project proves my skill of using both front-end as well as back-end develop
 - HTML and CSS
 - JS and D3 library
 
+[Pie Graph](pie_chart_example.png)
 
+[Bubble Plot](bubble_plot_example.png)
 
-[Pie Graph](pie_cart_example.png)
-[Bubble Plot](bubble_plot_exaple.png)
 
